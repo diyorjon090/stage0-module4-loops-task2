@@ -5,7 +5,7 @@ public class NaturalNumbers {
         int i = 0;
         while (i <= lastPrinted){
             System.out.println(i);
-            i++;
+            i++ ;
         }
     }
 }

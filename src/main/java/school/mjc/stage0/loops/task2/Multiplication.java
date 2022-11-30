@@ -13,7 +13,7 @@ public class Multiplication {
             while (i >= multiplyByAndToInclusive ){
                 System.out.println(i * multiplyByAndToInclusive);
 
-                i--;
+                i-- ;
             }
         }
     }

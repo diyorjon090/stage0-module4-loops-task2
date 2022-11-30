@@ -9,7 +9,7 @@ public class WordsBuilder {
             result.append(chars[i]);
             i++;
         }
-        System.out.print(result);
+        System.out.print(result) ;
 
     }
 }
